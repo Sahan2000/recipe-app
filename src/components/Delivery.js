@@ -23,7 +23,6 @@ const Delivery = ()=> {
                         eveniet ex deserunt fuga?
                     </p>
                     <button className="bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto md:mx-0 py-3 ">Get Started</button>
-
                 </div>
             </div>
         </div>
