@@ -1,6 +1,7 @@
 import TopNav from "./components/TopNav.js";
 import Features from "./components/Features.js";
 import Delivery from "./components/Delivery.js";
+import TopPicks from "./components/TopPicks.js";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
       <TopNav/>
         <Features/>
         <Delivery/>
+      <TopPicks/>
     </div>
   );
 }
