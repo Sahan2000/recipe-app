@@ -4,6 +4,7 @@ import Delivery from "./components/Delivery.js";
 import TopPicks from "./components/TopPicks.js";
 import Meals from "./components/Meal.js";
 import Categories from "./components/Categories.js";
+import NewsLetter from "./components/NewsLetter";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <TopPicks/>
         <Meals/>
         <Categories/>
+        <NewsLetter/>
     </div>
   );
 }
