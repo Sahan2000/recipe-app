@@ -5,6 +5,7 @@ import TopPicks from "./components/TopPicks.js";
 import Meals from "./components/Meal.js";
 import Categories from "./components/Categories.js";
 import NewsLetter from "./components/NewsLetter";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
         <Meals/>
         <Categories/>
         <NewsLetter/>
+        <Footer/>
     </div>
   );
 }
